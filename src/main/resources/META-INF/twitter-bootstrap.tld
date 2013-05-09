@@ -55,5 +55,8 @@
 		<path>/META-INF/tags/twitter/bootstrap/tr.tag</path>
 	</tag-file>
 
-
+        <tag-file>
+            <name>menu</name>
+            <path>/META-INF/tags/twitter/bootstrap/menu/menu.tag</path>
+        </tag-file>
 </taglib>
